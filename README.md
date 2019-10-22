@@ -1,3 +1,2 @@
+Tic-Tac-Toe game, is developed using react. It is a simple game and when the player got three similar characters in a row he/she will be told the winner. it has three possibilites, either he/she will be a winner, or the other player will be the winner or there will be a drow. I case of all possibilites the player will be notified about the game and what to do. app tell us the current weather condition around the globe by only inserting the name of the city. In the futrue, I am planning to add voice and other elements to make the game bigger and more fun.    
  
-
- tic-tac-toe game.
